@@ -14,8 +14,6 @@
 
 # 🛠 주요 스킬
 
-## 💻 Tech Stack
-
 <div align="center">
 
 ### Languages & Frameworks
